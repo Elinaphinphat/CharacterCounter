@@ -1,0 +1,14 @@
+C:\Users\GuNX1\CharaterCounts\bin\Debug\net8.0\CharaterCounts.exe
+C:\Users\GuNX1\CharaterCounts\bin\Debug\net8.0\CharaterCounts.deps.json
+C:\Users\GuNX1\CharaterCounts\bin\Debug\net8.0\CharaterCounts.runtimeconfig.json
+C:\Users\GuNX1\CharaterCounts\bin\Debug\net8.0\CharaterCounts.dll
+C:\Users\GuNX1\CharaterCounts\bin\Debug\net8.0\CharaterCounts.pdb
+C:\Users\GuNX1\CharaterCounts\obj\Debug\net8.0\CharaterCounts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GuNX1\CharaterCounts\obj\Debug\net8.0\CharaterCounts.AssemblyInfoInputs.cache
+C:\Users\GuNX1\CharaterCounts\obj\Debug\net8.0\CharaterCounts.AssemblyInfo.cs
+C:\Users\GuNX1\CharaterCounts\obj\Debug\net8.0\CharaterCounts.csproj.CoreCompileInputs.cache
+C:\Users\GuNX1\CharaterCounts\obj\Debug\net8.0\CharaterCounts.dll
+C:\Users\GuNX1\CharaterCounts\obj\Debug\net8.0\refint\CharaterCounts.dll
+C:\Users\GuNX1\CharaterCounts\obj\Debug\net8.0\CharaterCounts.pdb
+C:\Users\GuNX1\CharaterCounts\obj\Debug\net8.0\CharaterCounts.genruntimeconfig.cache
+C:\Users\GuNX1\CharaterCounts\obj\Debug\net8.0\ref\CharaterCounts.dll
